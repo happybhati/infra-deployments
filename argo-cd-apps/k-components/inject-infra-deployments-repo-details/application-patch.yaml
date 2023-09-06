@@ -4,4 +4,4 @@
   value: https://github.com/happybhati/infra-deployments.git
 - op: replace
   path: /spec/source/targetRevision
-  value: preview-sep-6
+  value: preview-preview-sep-6
